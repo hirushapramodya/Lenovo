@@ -10,6 +10,7 @@ public class test1 {
         arr.add(17);
         arr.add(18);
         arr.add(19);
+        arr.add(20);
         System.out.println(arr);
     }
 }
