@@ -5,6 +5,7 @@ public class test1 {
         arr.add(12);
         arr.add(13);
         arr.add(14);
+        arr.add(15);
         System.out.println(arr);
     }
 }
