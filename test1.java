@@ -8,6 +8,7 @@ public class test1 {
         arr.add(15);
         arr.add(16);
         arr.add(17);
+        arr.add(18);
         System.out.println(arr);
     }
 }
