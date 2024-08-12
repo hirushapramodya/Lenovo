@@ -9,6 +9,7 @@ public class test1 {
         arr.add(16);
         arr.add(17);
         arr.add(18);
+        arr.add(19);
         System.out.println(arr);
     }
 }
