@@ -6,6 +6,7 @@ public class test1 {
         arr.add(13);
         arr.add(14);
         arr.add(15);
+        arr.add(16);
         System.out.println(arr);
     }
 }
